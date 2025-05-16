@@ -1,5 +1,9 @@
 # History
 
+## 0.9.0 (2025-05-16)
+
+* Provide the ability to specify a firmware variant for programming.
+
 ## 0.8.0 (2025-04-10)
 
 * Automatically increase the timeout when issuing pulse commands to enable
